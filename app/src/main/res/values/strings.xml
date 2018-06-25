@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">assignment1</string>
+    <string name="present_rss">Present RSS</string>
+    <string name="enter_URL">Please enter an RSS URL
+        \n(It must begin with\n http:// or https://)</string>
+    <string name="suggestion">http://</string>
+    <string name="wrong_url">The URL you provided was wrong!</string>
+    <string name="enter_new_url">Please enter a new one</string>
+    <string name="slow_connection">Your internet connection is slow!</string>
+    <string name="try_again">Please try again later</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_message">Please check your internet connection and try again.</string>
+    <string name="dialog_title">Could not establish connection</string>
+    <string name="ok">OK</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="be_sure_message">Please be sure that you are inserting an RSS URL</string>
+    <string name="no_description_found">No description was found for this title!</string>
+    <string name="no_descriptions">No descriptions were found for these titles!</string>
+    <string name="no_titles_message">Please insert another RSS URL</string>
+    <string name="no_titles">No titles in this RSS URL!</string>
+    <string name="wrong_format">Something is wrong with the RSS format!</string>
+    <string name="wrong_format_message">Please insert your RSS URL again</string>
+    <string name="title_activity_rsspresentation">RSSpresentation</string>
+    <string name="retrieving">Retrieving RSS Feed&#8230;</string>
+    <string name="initialising">Initialising the titles list&#8230;</string>
+</resources>
